@@ -1,0 +1,4 @@
+Version: 2.0.0 ---------- Date: 01.10.2022
+=========================================
+Update: Updated to Bootstrap 5
+Fix: CSS issues fixed
